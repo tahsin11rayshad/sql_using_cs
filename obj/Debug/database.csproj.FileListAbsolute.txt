@@ -1,0 +1,8 @@
+D:\Repos\Mini_Games\database\bin\Debug\database.exe.config
+D:\Repos\Mini_Games\database\bin\Debug\database.exe
+D:\Repos\Mini_Games\database\bin\Debug\database.pdb
+D:\Repos\Mini_Games\database\obj\Debug\database.csproj.AssemblyReference.cache
+D:\Repos\Mini_Games\database\obj\Debug\database.csproj.SuggestedBindingRedirects.cache
+D:\Repos\Mini_Games\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+D:\Repos\Mini_Games\database\obj\Debug\database.exe
+D:\Repos\Mini_Games\database\obj\Debug\database.pdb
