@@ -11,6 +11,7 @@ namespace database
     {
         public static string dir = @"C:\shuvro_database\";
         public static string curr_dir;
+        public static List<string> dbnames = new List<string>();
 
         
 
@@ -22,6 +23,7 @@ namespace database
             {
                 Directory.CreateDirectory(targetDirectory);
                 curr_dir = targetDirectory;
+
                 Console.WriteLine("Database created successfully.");
             }
             catch (Exception ex)
@@ -30,17 +32,11 @@ namespace database
             }
         }
 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+
+
+
+
+
         
         public static void print_commands()
         {

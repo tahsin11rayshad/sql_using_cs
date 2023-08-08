@@ -37,12 +37,15 @@ namespace database
                         string databaseName = input.Substring(index + "create database".Length).Trim();
                         utility.create_database(databaseName);
                         /*Console.WriteLine(databaseName);*/
+                        utility.dbnames.Add(databaseName);
+                        utility2.writedbname(databaseName);
                     }
                     else
                     {
                         Console.WriteLine("Command is not correct - 'create database your_database_name'");
                     }
                 }
+                
             }
                            
 

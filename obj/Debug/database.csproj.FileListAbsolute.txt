@@ -6,3 +6,11 @@ D:\Repos\Mini_Games\database\obj\Debug\database.csproj.SuggestedBindingRedirects
 D:\Repos\Mini_Games\database\obj\Debug\database.csproj.CoreCompileInputs.cache
 D:\Repos\Mini_Games\database\obj\Debug\database.exe
 D:\Repos\Mini_Games\database\obj\Debug\database.pdb
+D:\Projects\SQL Using C#\bin\Debug\database.exe.config
+D:\Projects\SQL Using C#\bin\Debug\database.exe
+D:\Projects\SQL Using C#\bin\Debug\database.pdb
+D:\Projects\SQL Using C#\obj\Debug\database.csproj.AssemblyReference.cache
+D:\Projects\SQL Using C#\obj\Debug\database.csproj.SuggestedBindingRedirects.cache
+D:\Projects\SQL Using C#\obj\Debug\database.csproj.CoreCompileInputs.cache
+D:\Projects\SQL Using C#\obj\Debug\database.exe
+D:\Projects\SQL Using C#\obj\Debug\database.pdb
